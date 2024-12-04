@@ -9,7 +9,7 @@ This repository contains code for encoding extraction, voice activity detection 
 
 1. **Clone the Repository**
    ```bash
-   git clone [<repository_url>](https://github.com/Oagaoglu/Probing_Whisper.git)
+   git clone https://github.com/Oagaoglu/Probing_Whisper.git
    cd Probing_Whisper
    ```
 
