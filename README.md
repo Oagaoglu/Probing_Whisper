@@ -50,7 +50,7 @@ Update the following objects:
 
 - **Object: `[gemapsv01b_frame60:cFramer]`**
   ```ini
-  frameSize = 0.020
+  frameSize = 0.060
   frameStep = 0.010
   ```
 
