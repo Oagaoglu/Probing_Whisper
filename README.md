@@ -9,15 +9,15 @@ This repository contains code for encoding extraction, voice activity detection 
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone [<repository_url>](https://github.com/Oagaoglu/Probing_Whisper.git)
+   cd Probing_Whisper
    ```
 
 2. **Install Dependencies**
    Use the provided `environment.yml` to create a Conda environment:
    ```bash
    conda env create -f environment.yml
-   conda activate <env_name>
+   conda activate probe
    ```
 
 ---
