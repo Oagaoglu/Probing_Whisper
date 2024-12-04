@@ -1,5 +1,5 @@
 
-#Probing
+# Probing
 
 This repository contains code for encoding extraction, voice activity detection (VAD), and acoustic feature extraction using OpenSMILE, configured to align with Whisper's frame and stride specifications. Also the probing code in per feature setting and in vector.
 
